@@ -15,7 +15,7 @@ const PaymentComponent = () => {
             return actions.order.create({
               purchase_units: [{
                 amount: {
-                  value: '150.00', // Adjust the payment amount if needed
+                  value: '75.00', // Adjust the payment amount if needed
                 }
               }]
             });
