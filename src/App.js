@@ -15,7 +15,7 @@ The total cost for this premium service is $250, which will be conveniently spli
 
 
 </p>
-<p className="payment-amount">$150 (2 payments of $125)</p>
+<p className="payment-amount">$250 (2 payments of $125)</p>
         <PaymentComponent />
       </header>
       <main>
