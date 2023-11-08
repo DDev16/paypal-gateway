@@ -5,6 +5,7 @@ import './App.css';
 const PaymentComponent = () => {
   const clientId = 'AYp_Tlz1y_8LHEqsunsOKfIMEBbxsLt3uao1CqNwJMVzt6e2mHwTKH6_n_sZcypXvEaUHGYsJkHItsCG';
 
+  
   return (
     <PayPalScriptProvider options={{ 'client-id': clientId }}>
       <div className="payment-container">
